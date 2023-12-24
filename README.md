@@ -1,2 +1,8 @@
-# m3u
-playlist.m3u
+#EXTM3U
+#EXTINF:-1,epzioda  1
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_imB-bUX4U6-VYcrO9sLW2_-lrQR4qRPe6Z6uSBcJtcafSguyU723TGhcYEKet4HUKjWyOEpqXOe71MxyCJdgEnEXhLATCvmP465hwhCGc9_YwyxI0MaxMtMa_PSwpRmUlChszHQzYSCPNuK9C0sqWOB6P38m7bbr4Yuepu4fCQuOHSO2SyKVN3bJeH1PQe9XfpVKTS04Y-O_m9VJVZ0dsdRX9TW1GdfYvqQ98BgWgYYtTKkvpTCZCbIjo0Bepm4qXZ3HwDHzMK61g2VGKJcPx4J0uZliTiOVS964Ln9Vad3Fb4_mOmBnGl0sBtXC2010elqplhgBXGgyuoEKhnDJWejX07vNHBAQ/60d5292f4b148/bb75f74b70dcc64271333a307c0801fbf0a4701261c858dac3464dd02329a867/480p/playlist.m3u8
+
+#EXTINF:-1,Queen - Bohemian Rhapsody
+http://www.example.com/Queen-BohemianRhapsody.mp3
+#EXTINF:-1,Michael Jackson - Thriller
+http://www.example.com/MichaelJackson-Thriller.mp3
